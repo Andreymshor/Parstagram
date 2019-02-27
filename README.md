@@ -52,5 +52,5 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/8GK25wHkMv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+http://g.recordit.co/8GK25wHkMv.gif
 Please note, I had a hard time using my recordit gif creater hence why I was unable to turn it in. Sorry about that, code has been working for a while just recordIt was not working.
