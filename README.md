@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -50,4 +50,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/Gi0IMsP7Em.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/8GK25wHkMv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Please note, I had a hard time using my recordit gif creater hence why I was unable to turn it in. Sorry about that, code has been working for a while just recordIt was not working.
